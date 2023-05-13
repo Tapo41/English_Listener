@@ -11,14 +11,14 @@ An open source website for improving English listening skills. is a platform
 that offers resources and activities to help individuals improve their ability
 to listen effectively in English.
 
-[listenner.com](https://www.listenner.com/)
+[listenner.com](https://english-listener-ltuh.vercel.app/)
 
 ## Run the project
 
 Clone the project
 
 ```bash
-git clone https://github.com/lucaspessivaldo/listenner
+git clone https://github.com/Tapo41/English_Listener
 ```
 
 Install dependencies
