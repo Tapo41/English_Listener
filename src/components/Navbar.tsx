@@ -17,7 +17,7 @@ export default function Navbar() {
 
         <Link to='/'>
           <div className='flex items-center gap-1 cursor-pointer select-none'>
-            <div className='font-inter font-semibold  text-2xl'>listenner.</div>
+            <div className='font-inter font-semibold  text-2xl'>listener.</div>
           </div>
         </Link>
 
