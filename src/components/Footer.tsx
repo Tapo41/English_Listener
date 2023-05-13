@@ -6,12 +6,12 @@ export default function Footer() {
           <p className="text-center text-sm leading-loose md:text-left">
             Built by{" "}
             <a
-              href='https://github.com/lucaspessivaldo'
+              href='https://github.com/Tapo41'
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              Lucas
+              Tapojita Kar & Swastik Chattopadhyay
             </a>
             . Hosted on{" "}
             <a
@@ -27,7 +27,7 @@ export default function Footer() {
         <p className="text-sm md:text-left">
           The source code is available on{" "}
           <a
-            href='https://github.com/lucaspessivaldo/english-listening-training'
+            href='https://github.com/Tapo41/English_Listener'
             target="_blank"
             rel="noreferrer"
             className="underline font-inter font-semibold"
