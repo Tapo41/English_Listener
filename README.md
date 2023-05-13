@@ -1,4 +1,4 @@
-# Listenner
+# English_Listener
 
 <p>
   <img alt="" src="https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react&logoColor=white" />
@@ -11,7 +11,7 @@ An open source website for improving English listening skills. is a platform
 that offers resources and activities to help individuals improve their ability
 to listen effectively in English.
 
-[listenner.com](https://english-listener-ltuh.vercel.app/)
+[English_listener.com](https://english-listener-ltuh.vercel.app/)
 
 ## Run the project
 
